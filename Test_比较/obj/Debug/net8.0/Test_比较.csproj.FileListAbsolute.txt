@@ -1,0 +1,14 @@
+D:\Node\CSharp\知识点\Test_比较\bin\Debug\net8.0\Test_比较.exe
+D:\Node\CSharp\知识点\Test_比较\bin\Debug\net8.0\Test_比较.deps.json
+D:\Node\CSharp\知识点\Test_比较\bin\Debug\net8.0\Test_比较.runtimeconfig.json
+D:\Node\CSharp\知识点\Test_比较\bin\Debug\net8.0\Test_比较.dll
+D:\Node\CSharp\知识点\Test_比较\bin\Debug\net8.0\Test_比较.pdb
+D:\Node\CSharp\知识点\Test_比较\obj\Debug\net8.0\Test_比较.GeneratedMSBuildEditorConfig.editorconfig
+D:\Node\CSharp\知识点\Test_比较\obj\Debug\net8.0\Test_比较.AssemblyInfoInputs.cache
+D:\Node\CSharp\知识点\Test_比较\obj\Debug\net8.0\Test_比较.AssemblyInfo.cs
+D:\Node\CSharp\知识点\Test_比较\obj\Debug\net8.0\Test_比较.csproj.CoreCompileInputs.cache
+D:\Node\CSharp\知识点\Test_比较\obj\Debug\net8.0\Test_比较.dll
+D:\Node\CSharp\知识点\Test_比较\obj\Debug\net8.0\refint\Test_比较.dll
+D:\Node\CSharp\知识点\Test_比较\obj\Debug\net8.0\Test_比较.pdb
+D:\Node\CSharp\知识点\Test_比较\obj\Debug\net8.0\Test_比较.genruntimeconfig.cache
+D:\Node\CSharp\知识点\Test_比较\obj\Debug\net8.0\ref\Test_比较.dll

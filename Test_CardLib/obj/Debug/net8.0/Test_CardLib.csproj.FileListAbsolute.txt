@@ -1,0 +1,11 @@
+D:\Node\CSharp\知识点\Test_CardLib\bin\Debug\net8.0\Test_CardLib.deps.json
+D:\Node\CSharp\知识点\Test_CardLib\bin\Debug\net8.0\Test_CardLib.dll
+D:\Node\CSharp\知识点\Test_CardLib\bin\Debug\net8.0\Test_CardLib.pdb
+D:\Node\CSharp\知识点\Test_CardLib\obj\Debug\net8.0\Test_CardLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Node\CSharp\知识点\Test_CardLib\obj\Debug\net8.0\Test_CardLib.AssemblyInfoInputs.cache
+D:\Node\CSharp\知识点\Test_CardLib\obj\Debug\net8.0\Test_CardLib.AssemblyInfo.cs
+D:\Node\CSharp\知识点\Test_CardLib\obj\Debug\net8.0\Test_CardLib.csproj.CoreCompileInputs.cache
+D:\Node\CSharp\知识点\Test_CardLib\obj\Debug\net8.0\Test_CardLib.dll
+D:\Node\CSharp\知识点\Test_CardLib\obj\Debug\net8.0\refint\Test_CardLib.dll
+D:\Node\CSharp\知识点\Test_CardLib\obj\Debug\net8.0\Test_CardLib.pdb
+D:\Node\CSharp\知识点\Test_CardLib\obj\Debug\net8.0\ref\Test_CardLib.dll

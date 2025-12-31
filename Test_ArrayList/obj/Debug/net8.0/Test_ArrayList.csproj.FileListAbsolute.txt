@@ -1,0 +1,15 @@
+D:\Node\CSharp\知识点\Test_ArrayList\bin\Debug\net8.0\Test_ArrayList.exe
+D:\Node\CSharp\知识点\Test_ArrayList\bin\Debug\net8.0\Test_ArrayList.deps.json
+D:\Node\CSharp\知识点\Test_ArrayList\bin\Debug\net8.0\Test_ArrayList.runtimeconfig.json
+D:\Node\CSharp\知识点\Test_ArrayList\bin\Debug\net8.0\Test_ArrayList.dll
+D:\Node\CSharp\知识点\Test_ArrayList\bin\Debug\net8.0\Test_ArrayList.pdb
+D:\Node\CSharp\知识点\Test_ArrayList\obj\Debug\net8.0\Test_ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Node\CSharp\知识点\Test_ArrayList\obj\Debug\net8.0\Test_ArrayList.AssemblyInfoInputs.cache
+D:\Node\CSharp\知识点\Test_ArrayList\obj\Debug\net8.0\Test_ArrayList.AssemblyInfo.cs
+D:\Node\CSharp\知识点\Test_ArrayList\obj\Debug\net8.0\Test_ArrayList.csproj.CoreCompileInputs.cache
+D:\Node\CSharp\知识点\Test_ArrayList\obj\Debug\net8.0\Test_ArrayList.sourcelink.json
+D:\Node\CSharp\知识点\Test_ArrayList\obj\Debug\net8.0\Test_ArrayList.dll
+D:\Node\CSharp\知识点\Test_ArrayList\obj\Debug\net8.0\refint\Test_ArrayList.dll
+D:\Node\CSharp\知识点\Test_ArrayList\obj\Debug\net8.0\Test_ArrayList.pdb
+D:\Node\CSharp\知识点\Test_ArrayList\obj\Debug\net8.0\Test_ArrayList.genruntimeconfig.cache
+D:\Node\CSharp\知识点\Test_ArrayList\obj\Debug\net8.0\ref\Test_ArrayList.dll

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TransactionData>
+  <Transaction>
+    <Id>2</Id>
+    <Date>2025/5/5 0:00:00</Date>
+    <Amount>30</Amount>
+    <Description>睡觉</Description>
+  </Transaction>
+  <Transaction>
+    <Id>1</Id>
+    <Date>2025/11/13 0:00:00</Date>
+    <Amount>100</Amount>
+    <Description>嫖娼</Description>
+  </Transaction>
+</TransactionData>

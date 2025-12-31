@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Node\\CSharp\\\u77E5\u8BC6\u70B9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CAB6FC7-5BFE-41E1-BB50-2FF12FFF97D8}|Test_\u53CD\u5C04\\Test_\u53CD\u5C04.csproj|d:\\node\\csharp\\\u77E5\u8BC6\u70B9\\test_\u53CD\u5C04\\reflectiontest\\test01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CAB6FC7-5BFE-41E1-BB50-2FF12FFF97D8}|Test_\u53CD\u5C04\\Test_\u53CD\u5C04.csproj|solutionrelative:test_\u53CD\u5C04\\reflectiontest\\test01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test01.cs",
+              "DocumentMoniker": "D:\\Node\\CSharp\\\u77E5\u8BC6\u70B9\\Test_\u53CD\u5C04\\ReflectionTest\\Test01.cs",
+              "RelativeDocumentMoniker": "Test_\u53CD\u5C04\\ReflectionTest\\Test01.cs",
+              "ToolTip": "D:\\Node\\CSharp\\\u77E5\u8BC6\u70B9\\Test_\u53CD\u5C04\\ReflectionTest\\Test01.cs",
+              "RelativeToolTip": "Test_\u53CD\u5C04\\ReflectionTest\\Test01.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAwEMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T07:29:33.642Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

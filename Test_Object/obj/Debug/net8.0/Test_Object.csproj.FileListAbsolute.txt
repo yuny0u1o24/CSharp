@@ -1,0 +1,15 @@
+D:\Node\CSharp\知识点\Test_Object\bin\Debug\net8.0\Test_Object.exe
+D:\Node\CSharp\知识点\Test_Object\bin\Debug\net8.0\Test_Object.deps.json
+D:\Node\CSharp\知识点\Test_Object\bin\Debug\net8.0\Test_Object.runtimeconfig.json
+D:\Node\CSharp\知识点\Test_Object\bin\Debug\net8.0\Test_Object.dll
+D:\Node\CSharp\知识点\Test_Object\bin\Debug\net8.0\Test_Object.pdb
+D:\Node\CSharp\知识点\Test_Object\obj\Debug\net8.0\Test_Object.GeneratedMSBuildEditorConfig.editorconfig
+D:\Node\CSharp\知识点\Test_Object\obj\Debug\net8.0\Test_Object.AssemblyInfoInputs.cache
+D:\Node\CSharp\知识点\Test_Object\obj\Debug\net8.0\Test_Object.AssemblyInfo.cs
+D:\Node\CSharp\知识点\Test_Object\obj\Debug\net8.0\Test_Object.csproj.CoreCompileInputs.cache
+D:\Node\CSharp\知识点\Test_Object\obj\Debug\net8.0\Test_Object.sourcelink.json
+D:\Node\CSharp\知识点\Test_Object\obj\Debug\net8.0\Test_Object.dll
+D:\Node\CSharp\知识点\Test_Object\obj\Debug\net8.0\refint\Test_Object.dll
+D:\Node\CSharp\知识点\Test_Object\obj\Debug\net8.0\Test_Object.pdb
+D:\Node\CSharp\知识点\Test_Object\obj\Debug\net8.0\Test_Object.genruntimeconfig.cache
+D:\Node\CSharp\知识点\Test_Object\obj\Debug\net8.0\ref\Test_Object.dll

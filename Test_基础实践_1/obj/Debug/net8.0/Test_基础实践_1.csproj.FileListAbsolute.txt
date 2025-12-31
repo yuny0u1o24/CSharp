@@ -1,0 +1,15 @@
+D:\Node\CSharp\知识点\Test_基础实践_1\bin\Debug\net8.0\Test_基础实践_1.exe
+D:\Node\CSharp\知识点\Test_基础实践_1\bin\Debug\net8.0\Test_基础实践_1.deps.json
+D:\Node\CSharp\知识点\Test_基础实践_1\bin\Debug\net8.0\Test_基础实践_1.runtimeconfig.json
+D:\Node\CSharp\知识点\Test_基础实践_1\bin\Debug\net8.0\Test_基础实践_1.dll
+D:\Node\CSharp\知识点\Test_基础实践_1\bin\Debug\net8.0\Test_基础实践_1.pdb
+D:\Node\CSharp\知识点\Test_基础实践_1\obj\Debug\net8.0\Test_基础实践_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Node\CSharp\知识点\Test_基础实践_1\obj\Debug\net8.0\Test_基础实践_1.AssemblyInfoInputs.cache
+D:\Node\CSharp\知识点\Test_基础实践_1\obj\Debug\net8.0\Test_基础实践_1.AssemblyInfo.cs
+D:\Node\CSharp\知识点\Test_基础实践_1\obj\Debug\net8.0\Test_基础实践_1.csproj.CoreCompileInputs.cache
+D:\Node\CSharp\知识点\Test_基础实践_1\obj\Debug\net8.0\Test_基础实践_1.sourcelink.json
+D:\Node\CSharp\知识点\Test_基础实践_1\obj\Debug\net8.0\Test_基础实践_1.dll
+D:\Node\CSharp\知识点\Test_基础实践_1\obj\Debug\net8.0\refint\Test_基础实践_1.dll
+D:\Node\CSharp\知识点\Test_基础实践_1\obj\Debug\net8.0\Test_基础实践_1.pdb
+D:\Node\CSharp\知识点\Test_基础实践_1\obj\Debug\net8.0\Test_基础实践_1.genruntimeconfig.cache
+D:\Node\CSharp\知识点\Test_基础实践_1\obj\Debug\net8.0\ref\Test_基础实践_1.dll

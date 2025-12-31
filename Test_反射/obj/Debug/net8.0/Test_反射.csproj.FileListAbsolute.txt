@@ -1,0 +1,14 @@
+D:\Node\CSharp\知识点\Test_反射\bin\Debug\net8.0\Test_反射.exe
+D:\Node\CSharp\知识点\Test_反射\bin\Debug\net8.0\Test_反射.deps.json
+D:\Node\CSharp\知识点\Test_反射\bin\Debug\net8.0\Test_反射.runtimeconfig.json
+D:\Node\CSharp\知识点\Test_反射\bin\Debug\net8.0\Test_反射.dll
+D:\Node\CSharp\知识点\Test_反射\bin\Debug\net8.0\Test_反射.pdb
+D:\Node\CSharp\知识点\Test_反射\obj\Debug\net8.0\Test_反射.GeneratedMSBuildEditorConfig.editorconfig
+D:\Node\CSharp\知识点\Test_反射\obj\Debug\net8.0\Test_反射.AssemblyInfoInputs.cache
+D:\Node\CSharp\知识点\Test_反射\obj\Debug\net8.0\Test_反射.AssemblyInfo.cs
+D:\Node\CSharp\知识点\Test_反射\obj\Debug\net8.0\Test_反射.csproj.CoreCompileInputs.cache
+D:\Node\CSharp\知识点\Test_反射\obj\Debug\net8.0\Test_反射.dll
+D:\Node\CSharp\知识点\Test_反射\obj\Debug\net8.0\refint\Test_反射.dll
+D:\Node\CSharp\知识点\Test_反射\obj\Debug\net8.0\Test_反射.pdb
+D:\Node\CSharp\知识点\Test_反射\obj\Debug\net8.0\Test_反射.genruntimeconfig.cache
+D:\Node\CSharp\知识点\Test_反射\obj\Debug\net8.0\ref\Test_反射.dll

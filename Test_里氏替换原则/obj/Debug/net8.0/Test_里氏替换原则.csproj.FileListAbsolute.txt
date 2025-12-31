@@ -1,0 +1,15 @@
+D:\Node\CSharp\知识点\Test_里氏替换原则\bin\Debug\net8.0\Test_里氏替换原则.exe
+D:\Node\CSharp\知识点\Test_里氏替换原则\bin\Debug\net8.0\Test_里氏替换原则.deps.json
+D:\Node\CSharp\知识点\Test_里氏替换原则\bin\Debug\net8.0\Test_里氏替换原则.runtimeconfig.json
+D:\Node\CSharp\知识点\Test_里氏替换原则\bin\Debug\net8.0\Test_里氏替换原则.dll
+D:\Node\CSharp\知识点\Test_里氏替换原则\bin\Debug\net8.0\Test_里氏替换原则.pdb
+D:\Node\CSharp\知识点\Test_里氏替换原则\obj\Debug\net8.0\Test_里氏替换原则.GeneratedMSBuildEditorConfig.editorconfig
+D:\Node\CSharp\知识点\Test_里氏替换原则\obj\Debug\net8.0\Test_里氏替换原则.AssemblyInfoInputs.cache
+D:\Node\CSharp\知识点\Test_里氏替换原则\obj\Debug\net8.0\Test_里氏替换原则.AssemblyInfo.cs
+D:\Node\CSharp\知识点\Test_里氏替换原则\obj\Debug\net8.0\Test_里氏替换原则.csproj.CoreCompileInputs.cache
+D:\Node\CSharp\知识点\Test_里氏替换原则\obj\Debug\net8.0\Test_里氏替换原则.sourcelink.json
+D:\Node\CSharp\知识点\Test_里氏替换原则\obj\Debug\net8.0\Test_里氏替换原则.dll
+D:\Node\CSharp\知识点\Test_里氏替换原则\obj\Debug\net8.0\refint\Test_里氏替换原则.dll
+D:\Node\CSharp\知识点\Test_里氏替换原则\obj\Debug\net8.0\Test_里氏替换原则.pdb
+D:\Node\CSharp\知识点\Test_里氏替换原则\obj\Debug\net8.0\Test_里氏替换原则.genruntimeconfig.cache
+D:\Node\CSharp\知识点\Test_里氏替换原则\obj\Debug\net8.0\ref\Test_里氏替换原则.dll

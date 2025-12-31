@@ -1,0 +1,14 @@
+D:\Node\CSharp\知识点\Test_知识巩固实验小项目\bin\Debug\net8.0\Test_知识巩固实验小项目.exe
+D:\Node\CSharp\知识点\Test_知识巩固实验小项目\bin\Debug\net8.0\Test_知识巩固实验小项目.deps.json
+D:\Node\CSharp\知识点\Test_知识巩固实验小项目\bin\Debug\net8.0\Test_知识巩固实验小项目.runtimeconfig.json
+D:\Node\CSharp\知识点\Test_知识巩固实验小项目\bin\Debug\net8.0\Test_知识巩固实验小项目.dll
+D:\Node\CSharp\知识点\Test_知识巩固实验小项目\bin\Debug\net8.0\Test_知识巩固实验小项目.pdb
+D:\Node\CSharp\知识点\Test_知识巩固实验小项目\obj\Debug\net8.0\Test_知识巩固实验小项目.GeneratedMSBuildEditorConfig.editorconfig
+D:\Node\CSharp\知识点\Test_知识巩固实验小项目\obj\Debug\net8.0\Test_知识巩固实验小项目.AssemblyInfoInputs.cache
+D:\Node\CSharp\知识点\Test_知识巩固实验小项目\obj\Debug\net8.0\Test_知识巩固实验小项目.AssemblyInfo.cs
+D:\Node\CSharp\知识点\Test_知识巩固实验小项目\obj\Debug\net8.0\Test_知识巩固实验小项目.csproj.CoreCompileInputs.cache
+D:\Node\CSharp\知识点\Test_知识巩固实验小项目\obj\Debug\net8.0\Test_知识巩固实验小项目.dll
+D:\Node\CSharp\知识点\Test_知识巩固实验小项目\obj\Debug\net8.0\refint\Test_知识巩固实验小项目.dll
+D:\Node\CSharp\知识点\Test_知识巩固实验小项目\obj\Debug\net8.0\Test_知识巩固实验小项目.pdb
+D:\Node\CSharp\知识点\Test_知识巩固实验小项目\obj\Debug\net8.0\Test_知识巩固实验小项目.genruntimeconfig.cache
+D:\Node\CSharp\知识点\Test_知识巩固实验小项目\obj\Debug\net8.0\ref\Test_知识巩固实验小项目.dll

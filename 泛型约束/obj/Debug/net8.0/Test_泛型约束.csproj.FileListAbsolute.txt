@@ -1,0 +1,15 @@
+D:\Node\CSharp\知识点\泛型约束\bin\Debug\net8.0\Test_泛型约束.exe
+D:\Node\CSharp\知识点\泛型约束\bin\Debug\net8.0\Test_泛型约束.deps.json
+D:\Node\CSharp\知识点\泛型约束\bin\Debug\net8.0\Test_泛型约束.runtimeconfig.json
+D:\Node\CSharp\知识点\泛型约束\bin\Debug\net8.0\Test_泛型约束.dll
+D:\Node\CSharp\知识点\泛型约束\bin\Debug\net8.0\Test_泛型约束.pdb
+D:\Node\CSharp\知识点\泛型约束\obj\Debug\net8.0\Test_泛型约束.GeneratedMSBuildEditorConfig.editorconfig
+D:\Node\CSharp\知识点\泛型约束\obj\Debug\net8.0\Test_泛型约束.AssemblyInfoInputs.cache
+D:\Node\CSharp\知识点\泛型约束\obj\Debug\net8.0\Test_泛型约束.AssemblyInfo.cs
+D:\Node\CSharp\知识点\泛型约束\obj\Debug\net8.0\Test_泛型约束.csproj.CoreCompileInputs.cache
+D:\Node\CSharp\知识点\泛型约束\obj\Debug\net8.0\Test_泛型约束.sourcelink.json
+D:\Node\CSharp\知识点\泛型约束\obj\Debug\net8.0\Test_泛型约束.dll
+D:\Node\CSharp\知识点\泛型约束\obj\Debug\net8.0\refint\Test_泛型约束.dll
+D:\Node\CSharp\知识点\泛型约束\obj\Debug\net8.0\Test_泛型约束.pdb
+D:\Node\CSharp\知识点\泛型约束\obj\Debug\net8.0\Test_泛型约束.genruntimeconfig.cache
+D:\Node\CSharp\知识点\泛型约束\obj\Debug\net8.0\ref\Test_泛型约束.dll

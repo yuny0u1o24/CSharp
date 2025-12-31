@@ -1,0 +1,14 @@
+D:\Node\CSharp\知识点\Test_文件\bin\Debug\net8.0\Test_文件.exe
+D:\Node\CSharp\知识点\Test_文件\bin\Debug\net8.0\Test_文件.deps.json
+D:\Node\CSharp\知识点\Test_文件\bin\Debug\net8.0\Test_文件.runtimeconfig.json
+D:\Node\CSharp\知识点\Test_文件\bin\Debug\net8.0\Test_文件.dll
+D:\Node\CSharp\知识点\Test_文件\bin\Debug\net8.0\Test_文件.pdb
+D:\Node\CSharp\知识点\Test_文件\obj\Debug\net8.0\Test_文件.GeneratedMSBuildEditorConfig.editorconfig
+D:\Node\CSharp\知识点\Test_文件\obj\Debug\net8.0\Test_文件.AssemblyInfoInputs.cache
+D:\Node\CSharp\知识点\Test_文件\obj\Debug\net8.0\Test_文件.AssemblyInfo.cs
+D:\Node\CSharp\知识点\Test_文件\obj\Debug\net8.0\Test_文件.csproj.CoreCompileInputs.cache
+D:\Node\CSharp\知识点\Test_文件\obj\Debug\net8.0\Test_文件.dll
+D:\Node\CSharp\知识点\Test_文件\obj\Debug\net8.0\refint\Test_文件.dll
+D:\Node\CSharp\知识点\Test_文件\obj\Debug\net8.0\Test_文件.pdb
+D:\Node\CSharp\知识点\Test_文件\obj\Debug\net8.0\Test_文件.genruntimeconfig.cache
+D:\Node\CSharp\知识点\Test_文件\obj\Debug\net8.0\ref\Test_文件.dll

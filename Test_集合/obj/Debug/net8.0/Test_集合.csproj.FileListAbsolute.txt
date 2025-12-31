@@ -1,0 +1,14 @@
+D:\Node\CSharp\知识点\Test_集合\bin\Debug\net8.0\Test_集合.exe
+D:\Node\CSharp\知识点\Test_集合\bin\Debug\net8.0\Test_集合.deps.json
+D:\Node\CSharp\知识点\Test_集合\bin\Debug\net8.0\Test_集合.runtimeconfig.json
+D:\Node\CSharp\知识点\Test_集合\bin\Debug\net8.0\Test_集合.dll
+D:\Node\CSharp\知识点\Test_集合\bin\Debug\net8.0\Test_集合.pdb
+D:\Node\CSharp\知识点\Test_集合\obj\Debug\net8.0\Test_集合.GeneratedMSBuildEditorConfig.editorconfig
+D:\Node\CSharp\知识点\Test_集合\obj\Debug\net8.0\Test_集合.AssemblyInfoInputs.cache
+D:\Node\CSharp\知识点\Test_集合\obj\Debug\net8.0\Test_集合.AssemblyInfo.cs
+D:\Node\CSharp\知识点\Test_集合\obj\Debug\net8.0\Test_集合.csproj.CoreCompileInputs.cache
+D:\Node\CSharp\知识点\Test_集合\obj\Debug\net8.0\Test_集合.dll
+D:\Node\CSharp\知识点\Test_集合\obj\Debug\net8.0\refint\Test_集合.dll
+D:\Node\CSharp\知识点\Test_集合\obj\Debug\net8.0\Test_集合.pdb
+D:\Node\CSharp\知识点\Test_集合\obj\Debug\net8.0\Test_集合.genruntimeconfig.cache
+D:\Node\CSharp\知识点\Test_集合\obj\Debug\net8.0\ref\Test_集合.dll

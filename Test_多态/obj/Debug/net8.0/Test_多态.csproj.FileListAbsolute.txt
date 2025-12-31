@@ -1,0 +1,15 @@
+D:\Node\CSharp\知识点\Test_多态\bin\Debug\net8.0\Test_多态.exe
+D:\Node\CSharp\知识点\Test_多态\bin\Debug\net8.0\Test_多态.deps.json
+D:\Node\CSharp\知识点\Test_多态\bin\Debug\net8.0\Test_多态.runtimeconfig.json
+D:\Node\CSharp\知识点\Test_多态\bin\Debug\net8.0\Test_多态.dll
+D:\Node\CSharp\知识点\Test_多态\bin\Debug\net8.0\Test_多态.pdb
+D:\Node\CSharp\知识点\Test_多态\obj\Debug\net8.0\Test_多态.GeneratedMSBuildEditorConfig.editorconfig
+D:\Node\CSharp\知识点\Test_多态\obj\Debug\net8.0\Test_多态.AssemblyInfoInputs.cache
+D:\Node\CSharp\知识点\Test_多态\obj\Debug\net8.0\Test_多态.AssemblyInfo.cs
+D:\Node\CSharp\知识点\Test_多态\obj\Debug\net8.0\Test_多态.csproj.CoreCompileInputs.cache
+D:\Node\CSharp\知识点\Test_多态\obj\Debug\net8.0\Test_多态.sourcelink.json
+D:\Node\CSharp\知识点\Test_多态\obj\Debug\net8.0\Test_多态.dll
+D:\Node\CSharp\知识点\Test_多态\obj\Debug\net8.0\refint\Test_多态.dll
+D:\Node\CSharp\知识点\Test_多态\obj\Debug\net8.0\Test_多态.pdb
+D:\Node\CSharp\知识点\Test_多态\obj\Debug\net8.0\Test_多态.genruntimeconfig.cache
+D:\Node\CSharp\知识点\Test_多态\obj\Debug\net8.0\ref\Test_多态.dll

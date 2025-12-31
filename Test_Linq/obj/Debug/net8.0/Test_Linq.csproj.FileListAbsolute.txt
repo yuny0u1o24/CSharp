@@ -1,0 +1,14 @@
+D:\Node\CSharp\知识点\Test_Linq\bin\Debug\net8.0\Test_Linq.exe
+D:\Node\CSharp\知识点\Test_Linq\bin\Debug\net8.0\Test_Linq.deps.json
+D:\Node\CSharp\知识点\Test_Linq\bin\Debug\net8.0\Test_Linq.runtimeconfig.json
+D:\Node\CSharp\知识点\Test_Linq\bin\Debug\net8.0\Test_Linq.dll
+D:\Node\CSharp\知识点\Test_Linq\bin\Debug\net8.0\Test_Linq.pdb
+D:\Node\CSharp\知识点\Test_Linq\obj\Debug\net8.0\Test_Linq.GeneratedMSBuildEditorConfig.editorconfig
+D:\Node\CSharp\知识点\Test_Linq\obj\Debug\net8.0\Test_Linq.AssemblyInfoInputs.cache
+D:\Node\CSharp\知识点\Test_Linq\obj\Debug\net8.0\Test_Linq.AssemblyInfo.cs
+D:\Node\CSharp\知识点\Test_Linq\obj\Debug\net8.0\Test_Linq.csproj.CoreCompileInputs.cache
+D:\Node\CSharp\知识点\Test_Linq\obj\Debug\net8.0\Test_Linq.dll
+D:\Node\CSharp\知识点\Test_Linq\obj\Debug\net8.0\refint\Test_Linq.dll
+D:\Node\CSharp\知识点\Test_Linq\obj\Debug\net8.0\Test_Linq.pdb
+D:\Node\CSharp\知识点\Test_Linq\obj\Debug\net8.0\Test_Linq.genruntimeconfig.cache
+D:\Node\CSharp\知识点\Test_Linq\obj\Debug\net8.0\ref\Test_Linq.dll

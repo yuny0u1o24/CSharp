@@ -1,0 +1,15 @@
+D:\Node\CSharp\知识点\Test_值类型和引用类型\bin\Debug\net8.0\Test_值类型和引用类型.exe
+D:\Node\CSharp\知识点\Test_值类型和引用类型\bin\Debug\net8.0\Test_值类型和引用类型.deps.json
+D:\Node\CSharp\知识点\Test_值类型和引用类型\bin\Debug\net8.0\Test_值类型和引用类型.runtimeconfig.json
+D:\Node\CSharp\知识点\Test_值类型和引用类型\bin\Debug\net8.0\Test_值类型和引用类型.dll
+D:\Node\CSharp\知识点\Test_值类型和引用类型\bin\Debug\net8.0\Test_值类型和引用类型.pdb
+D:\Node\CSharp\知识点\Test_值类型和引用类型\obj\Debug\net8.0\Test_值类型和引用类型.GeneratedMSBuildEditorConfig.editorconfig
+D:\Node\CSharp\知识点\Test_值类型和引用类型\obj\Debug\net8.0\Test_值类型和引用类型.AssemblyInfoInputs.cache
+D:\Node\CSharp\知识点\Test_值类型和引用类型\obj\Debug\net8.0\Test_值类型和引用类型.AssemblyInfo.cs
+D:\Node\CSharp\知识点\Test_值类型和引用类型\obj\Debug\net8.0\Test_值类型和引用类型.csproj.CoreCompileInputs.cache
+D:\Node\CSharp\知识点\Test_值类型和引用类型\obj\Debug\net8.0\Test_值类型和引用类型.sourcelink.json
+D:\Node\CSharp\知识点\Test_值类型和引用类型\obj\Debug\net8.0\Test_值类型和引用类型.dll
+D:\Node\CSharp\知识点\Test_值类型和引用类型\obj\Debug\net8.0\refint\Test_值类型和引用类型.dll
+D:\Node\CSharp\知识点\Test_值类型和引用类型\obj\Debug\net8.0\Test_值类型和引用类型.pdb
+D:\Node\CSharp\知识点\Test_值类型和引用类型\obj\Debug\net8.0\Test_值类型和引用类型.genruntimeconfig.cache
+D:\Node\CSharp\知识点\Test_值类型和引用类型\obj\Debug\net8.0\ref\Test_值类型和引用类型.dll

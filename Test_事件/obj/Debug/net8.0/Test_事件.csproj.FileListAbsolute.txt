@@ -1,0 +1,15 @@
+D:\Node\CSharp\知识点\Test_事件\bin\Debug\net8.0\Test_事件.exe
+D:\Node\CSharp\知识点\Test_事件\bin\Debug\net8.0\Test_事件.deps.json
+D:\Node\CSharp\知识点\Test_事件\bin\Debug\net8.0\Test_事件.runtimeconfig.json
+D:\Node\CSharp\知识点\Test_事件\bin\Debug\net8.0\Test_事件.dll
+D:\Node\CSharp\知识点\Test_事件\bin\Debug\net8.0\Test_事件.pdb
+D:\Node\CSharp\知识点\Test_事件\obj\Debug\net8.0\Test_事件.GeneratedMSBuildEditorConfig.editorconfig
+D:\Node\CSharp\知识点\Test_事件\obj\Debug\net8.0\Test_事件.AssemblyInfoInputs.cache
+D:\Node\CSharp\知识点\Test_事件\obj\Debug\net8.0\Test_事件.AssemblyInfo.cs
+D:\Node\CSharp\知识点\Test_事件\obj\Debug\net8.0\Test_事件.csproj.CoreCompileInputs.cache
+D:\Node\CSharp\知识点\Test_事件\obj\Debug\net8.0\Test_事件.sourcelink.json
+D:\Node\CSharp\知识点\Test_事件\obj\Debug\net8.0\Test_事件.dll
+D:\Node\CSharp\知识点\Test_事件\obj\Debug\net8.0\refint\Test_事件.dll
+D:\Node\CSharp\知识点\Test_事件\obj\Debug\net8.0\Test_事件.pdb
+D:\Node\CSharp\知识点\Test_事件\obj\Debug\net8.0\Test_事件.genruntimeconfig.cache
+D:\Node\CSharp\知识点\Test_事件\obj\Debug\net8.0\ref\Test_事件.dll

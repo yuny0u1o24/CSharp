@@ -1,0 +1,14 @@
+D:\Node\CSharp\知识点\Test_深度拷贝\bin\Debug\net8.0\Test_深度拷贝.exe
+D:\Node\CSharp\知识点\Test_深度拷贝\bin\Debug\net8.0\Test_深度拷贝.deps.json
+D:\Node\CSharp\知识点\Test_深度拷贝\bin\Debug\net8.0\Test_深度拷贝.runtimeconfig.json
+D:\Node\CSharp\知识点\Test_深度拷贝\bin\Debug\net8.0\Test_深度拷贝.dll
+D:\Node\CSharp\知识点\Test_深度拷贝\bin\Debug\net8.0\Test_深度拷贝.pdb
+D:\Node\CSharp\知识点\Test_深度拷贝\obj\Debug\net8.0\Test_深度拷贝.GeneratedMSBuildEditorConfig.editorconfig
+D:\Node\CSharp\知识点\Test_深度拷贝\obj\Debug\net8.0\Test_深度拷贝.AssemblyInfoInputs.cache
+D:\Node\CSharp\知识点\Test_深度拷贝\obj\Debug\net8.0\Test_深度拷贝.AssemblyInfo.cs
+D:\Node\CSharp\知识点\Test_深度拷贝\obj\Debug\net8.0\Test_深度拷贝.csproj.CoreCompileInputs.cache
+D:\Node\CSharp\知识点\Test_深度拷贝\obj\Debug\net8.0\Test_深度拷贝.dll
+D:\Node\CSharp\知识点\Test_深度拷贝\obj\Debug\net8.0\refint\Test_深度拷贝.dll
+D:\Node\CSharp\知识点\Test_深度拷贝\obj\Debug\net8.0\Test_深度拷贝.pdb
+D:\Node\CSharp\知识点\Test_深度拷贝\obj\Debug\net8.0\Test_深度拷贝.genruntimeconfig.cache
+D:\Node\CSharp\知识点\Test_深度拷贝\obj\Debug\net8.0\ref\Test_深度拷贝.dll
